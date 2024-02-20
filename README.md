@@ -1,16 +1,29 @@
-# language
 
-A new Flutter project.
+# easy_localization package
 
-## Getting Started
+How to use multi-language support in mobile apps using Flutter easy_localization package ?.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Package URL
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [easy_localization: ^3.0.4](https://pub.dev/packages/easy_localization)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Installing
+
+```Add to your pubspec.yaml:
+flutter pub add easy_localization
+
+dependencies:
+  easy_localization: ^3.0.4
+```
+
+
+## Run on Your Computer
+
+```bash
+  git clone https://github.com/bimrankucuk/easy_localization.git
+```
+
+
+  
